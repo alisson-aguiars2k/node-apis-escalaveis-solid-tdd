@@ -16,6 +16,3 @@
 ## Creditos:
 ### Este projeto foi desenvolvido em aula com o professor Diego Fernandes, Rocketseat.
 
-
-
-# node-apis-escalaveis-solid-tdd
